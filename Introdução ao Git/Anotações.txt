@@ -1,0 +1,8 @@
+Algumas anotações das aulas:
+
+Criar repositório no GitHub
+Clonar na máquina (git clone)
+Podem ser checados os status (git status)
+Podem ser feitas alterações, mas devem ser adicionadas (git add . ou git add -A)(Para adicionar todos os arquivos)
+
+Para enviar para o GitHub devemos usar o git commit -m "Mensagem commitada"
